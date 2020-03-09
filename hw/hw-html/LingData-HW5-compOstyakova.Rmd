@@ -138,7 +138,7 @@ summary(model2)$adj.r.sq
 Write down your general conclusions about the relationship between `f1`, `f2`, and `vowels`.
 
 ```
-Considering both models, we see that `f1`doesn't influence the prediction of a variable `f2` so much 
+Considering both models, we see that `f1`doesn't influence the prediction of a variable `f2` so much (the signific. code show us). As for the second model, it performs a little bit better than the first one (as R square increases). So, it means that a variable `vowel` influences the prediction, and there is a association between `f2` and this one.  
 ```
 
 ## 3. Dutch causative constructions
